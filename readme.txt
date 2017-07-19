@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 ssh boss
 
 Git has a mutable index called stage.
+Git track changes.
