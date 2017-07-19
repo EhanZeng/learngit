@@ -1,4 +1,6 @@
 Git is a version control system.
-Git is free software.
-boss late for work
+Git is free software distributed under the GPL.
+ssh boss
+
+
 
